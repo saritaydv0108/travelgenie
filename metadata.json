@@ -1,0 +1,6 @@
+{
+  "name": "TravelGenie",
+  "description": "A globally scalable AI travel planning companion that crafts customized itineraries in any currency, supporting custom destination management, user preferences, and real-time integration architecture worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
